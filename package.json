@@ -1,0 +1,26 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Learn http course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ousmane134/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ousmane134/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/ousmane134/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jtest": "^0.0.1"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}

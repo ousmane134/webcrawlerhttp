@@ -21,7 +21,9 @@
     "jtest": "^0.0.1"
   },
   "dependencies": {
+    "import": "^0.0.6",
     "jest": "^29.5.0",
-    "jsdom": "^22.0.0"
+    "jsdom": "^22.0.0",
+    "node-fetch": "^3.3.1"
   }
 }
